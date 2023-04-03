@@ -76,7 +76,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Links
 
-- Deployment Link:
+- Deployment Link: https://khevb27.github.io/UTA-Bootcamp-Challenge3/ 
 - GitHub Repository Link: https://github.com/khevb27/UTA-Bootcamp-Challenge3 
 
 ----------------------------------------------------------------------

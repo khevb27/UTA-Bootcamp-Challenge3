@@ -71,6 +71,8 @@ THEN the password is either displayed in an alert or written to the page
 <img src= "assets/images/C3 Screenshot 5.png"/>
 <img src= "assets/images/C3 Screenshot 6.png"/>
 <img src= "assets/images/C3 Screenshot 7.png"/>
+<img src= "assets/images/C3 Screenshot 8.png"/>
+<img src= "assets/images/C3 Screenshot 9.png"/>
 
 #
 
